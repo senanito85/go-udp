@@ -29,4 +29,4 @@ then type the message to prompt
 Modifications
 =====
 Server and client are configured to send and listen to port 2323 on 127.0.0.1. So it will work on same machine.
-When two servers used IP address on both client and server should be updated accordingly.
+When two servers used IP address on both client and server files should be updated accordingly.
